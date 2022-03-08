@@ -1,0 +1,6 @@
+Step 1- Run "python3 sort_hat_function.py" on command prompt with its specific path.
+Step 2- Overall capacity of the 4 houses (it should be divided equally in the 4 houses)
+Step 3- Enter reg student with 4 digit roll number, space seperated group and space seperated V or NV group
+Step 4- Enter "fin to get the results"
+
+
